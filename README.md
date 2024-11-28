@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diya Kataria</h1>
-<h3 align="center">Aspiring Data Scientist</h3>
+<h3 align="center">A passionate Data Analyst and an aspiring Data Scientist
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diyakataria09&label=Profile%20views&color=0e75b6&style=flat" alt="diyakataria09" /> </p>
 
